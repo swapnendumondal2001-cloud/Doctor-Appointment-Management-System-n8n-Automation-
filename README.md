@@ -17,8 +17,6 @@
 -[Design Considerations](#design-considerations)
 -[Limitations](#limitations)
 -[Future Enhancements](#future-enhancements)
--[Repository Structure](#repository-structure)
-
 
 ---
 
